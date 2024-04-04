@@ -6598,8 +6598,5 @@
         "network": "Ethereum (ERC20)"
       }
     }
-  ],
-  "total": 100,
-  "skip": 0,
-  "limit": 100
+  ]
 }
